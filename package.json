@@ -1,0 +1,21 @@
+{
+    "name": "daily-tasks",
+    "version": "1.0.0",
+    "description": "Beautiful iOS-style task manager app",
+    "main": "index.js",
+    "scripts": {
+        "build": "npx cap sync"
+    },
+    "keywords": [
+        "tasks",
+        "todo",
+        "productivity"
+    ],
+    "author": "You",
+    "license": "MIT",
+    "dependencies": {
+        "@capacitor/android": "^5.0.0",
+        "@capacitor/core": "^5.0.0",
+        "@capacitor/cli": "^5.0.0"
+    }
+}
